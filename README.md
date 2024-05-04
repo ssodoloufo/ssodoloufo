@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Arius !
 
-* 👨🏻‍💻 PHP Laravel Fullstack Web Developper
+* 👨🏻‍💻 Fullstack Web Developper (PHP Laravel - Angular)
 * 🌍 I'm based in Cotonou (Republic of Benin)
 * 🌱 I’m currently learning Java Spring Boot
 * ✉️ Contact me at : [ssodoloufo@gmail.com](mailto:ssodoloufo@gmail.com)
